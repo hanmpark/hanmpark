@@ -1,4 +1,4 @@
-![my banner](https://github.com/Nonino42/Nonino42/github_banner.png?raw=true)
+<img src="https://github.com/Nonino42/Nonino42/blob/main/github_banner.png" width=150% height=150% />
 <h1 align="center">Hi 👋, I'm Hanmin</h1>
 <h3 align="center">Student at 42, a novice programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
