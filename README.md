@@ -1,4 +1,4 @@
-![my banner](https://github.com/Nonino42/Nonino42/blob/[branch]/Hello,_I_am.png?raw=true)
+![my banner](https://github.com/Nonino42/Nonino42/blob/[branch]/Hello, I am.png?raw=true)
 <h1 align="center">Hi 👋, I'm Hanmin</h1>
 <h3 align="center">Student at 42, a novice programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
