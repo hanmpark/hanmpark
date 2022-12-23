@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Student at 42, a novice programmer</h3>
 
-- 🔭 I’m currently working on **Born2beRoot**
+- 🔭 I’m currently working on **Born2beRoot** a 42 School project
 
 - 🌱 I’m currently learning **C**
 
