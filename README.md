@@ -1,7 +1,6 @@
 <img src="https://github.com/Nonino42/Nonino42/blob/main/github_banner.jpeg" />
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Student at 42, a novice programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 - 🔭 I’m currently working on **Born2beRoot**
 
