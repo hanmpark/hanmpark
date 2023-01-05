@@ -1,6 +1,4 @@
-<img src="https://github.com/Nonino42/Nonino42/blob/main/github_banner.jpeg" />
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Student at 42, a novice programmer</h3>
+<h1 align="center">Student at 42</h1>
 
 - 🔭 I’m currently working on **Born2beRoot** a 42 School project
 
