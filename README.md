@@ -1,6 +1,6 @@
 <h1 align="center">Student at 42</h1>
 
-- 🔭 I’m currently working on **Born2beRoot** a 42 School project
+- 🔭 I’m currently working on **so_long** a 42 School project
 
 - 🌱 I’m currently learning **C**
 
