@@ -1,6 +1,7 @@
 <h1 align="center">Student at 42</h1>
 
-[![hanmpark's 42 stats](https://badge42.vercel.app/api/v2/clcvxdux200060fl3ltvbuwm2/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42) [![hanmpark's 42 stats](https://badge42.vercel.app/api/v2/clcvxdux200060fl3ltvbuwm2/stats?cursusId=21&coalitionId=122)](https://github.com/JaeSeoKim/badge42)
+<h3 align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcvxdux200060fl3ltvbuwm2/stats?cursusId=21&coalitionId=122" alt="hanmpark's 42 stats" /></a></h3>
+<h2 align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcvxdux200060fl3ltvbuwm2/stats?cursusId=9&coalitionId=piscine" alt="hanmpark's 42 stats" /></a></h2>
 
 - 🔭 I’m currently working on **so_long** a 42 School project
 
