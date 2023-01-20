@@ -21,13 +21,13 @@
 
 <div align="center">
   <a href="https://github.com/Nonino42/scholarship_logtime">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nonino42&repo=scholarship_logtime&theme=ayu-mirage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nonino42&repo=scholarship_logtime&theme=tokyonight">
   </a>
 </div>
 
 ## Stats
 
-| <a href="https://github.com/Nonino42"><img src="https://github-readme-stats.vercel.app/api?username=nonino42&count_private=true&show_icons=true&theme=ayu-mirage" /></a> | <a href="https://github.com/Nonino42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nonino42&theme=ayu-mirage" /></a> |
+| <a href="https://github.com/Nonino42"><img src="https://github-readme-stats.vercel.app/api?username=nonino42&count_private=true&show_icons=true&theme=tokyonight" /></a> | <a href="https://github.com/Nonino42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nonino42&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 
 <div align="left">
