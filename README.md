@@ -30,7 +30,6 @@
 | <a href="https://github.com/Nonino42"><img src="https://github-readme-stats.vercel.app/api?username=nonino42&count_private=true&show_icons=true&theme=ayu-mirage" /></a> | <a href="https://github.com/Nonino42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nonino42&theme=ayu-mirage" /></a> |
 | ------------- | ------------- |
 
-## Connect with me
 <div align="left">
   <a href="https://fr.linkedin.com/in/hanmin-park-83239718b/en?trk=people-guest_people_search-card" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanmin-park-83239718b/" height="30" width="40" />
