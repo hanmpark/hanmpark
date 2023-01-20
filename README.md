@@ -27,13 +27,8 @@
 
 ## Stats
 
-<div align="center">
-  <a href="https://github.com/Nonino42">
-    | <img src="https://github-readme-stats.vercel.app/api?username=nonino42&count_private=true&show_icons=true&theme=ayu-mirage">
-    | <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonino42&theme=ayu-mirage"> |
-    | ------------- | ------------- |
-  </a>
-</div>
+| <a href="https://github.com/Nonino42"><img src="https://github-readme-stats.vercel.app/api?username=nonino42&count_private=true&show_icons=true&theme=ayu-mirage" /></a> | <a href="https://github.com/Nonino42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nonino42&theme=ayu-mirage" /></a> |
+| ------------- | ------------- |
 
 ## Connect with me
 <div align="left">
