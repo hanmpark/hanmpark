@@ -1,21 +1,45 @@
-<h1 align="center">Student at 42</h1>
+# Nonino (hanmpark)
 
-<h3 align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcvxdux200060fl3ltvbuwm2/stats?cursusId=21&coalitionId=122" alt="hanmpark's 42 stats" /></a></h3>
-<h2 align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcvxdux200060fl3ltvbuwm2/stats?cursusId=9&coalitionId=piscine" alt="hanmpark's 42 stats" /></a></h2>
+<div align="center">
+  <a href="https://profile.intra.42.fr/users/hanmpark">
+    <img src="https://badgen.net/badge/Born2Code/hanmpark/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+  </a>
+</div>
 
-- 🔭 I’m currently working on **so_long** a 42 School project
+<div align="center">
+  <a href="https://github.com/Nonino42">
+     <img src="https://badge42.vercel.app/api/v2/clcvxdux200060fl3ltvbuwm2/stats?cursusId=21&coalitionId=122" alt="hanmpark's 42 stats" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **C**
+## Hi there !
 
-- 📫 How to reach me **hanmin.01.park@gmail.com**
+* 👨🏻‍💻 42 Nice student
+* ⏳ Working on my common core, currently on **so_long**
+* 🔠 Learning **C**
+* 🌱 Check out my program:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fr.linkedin.com/in/hanmin-park-83239718b/en?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanmin-park-83239718b/" height="30" width="40" /></a>
-<a href="https://instagram.com/hanmin.prk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanmin.prk" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/Nonino42/scholarship_logtime">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nonino42&repo=scholarship_logtime&theme=ayu-mirage">
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+## Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nonino42&" alt="nonino42" /></p>
+<div align="center">
+  <a href="https://github.com/Nonino42">
+    <img src="https://github-readme-stats.vercel.app/api?username=nonino42&count_private=true&show_icons=true&theme=ayu-mirage">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonino42&theme=ayu-mirage">
+  </a>
+</div>
+
+## Connect with me
+<div align="left">
+  <a href="https://fr.linkedin.com/in/hanmin-park-83239718b/en?trk=people-guest_people_search-card" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanmin-park-83239718b/" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/hanmin.prk" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanmin.prk" height="30" width="40" />
+  </a>
+</div>
