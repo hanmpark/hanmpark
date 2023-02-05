@@ -1,4 +1,4 @@
-# Hello fellow github user, I am Hanmin Park
+# Hello there, I am Hanmin Park
 
 ### Let me introduce myself
 
