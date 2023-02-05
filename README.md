@@ -9,9 +9,13 @@
       <img src="https://badgen.net/badge/Born2Code/hanmpark/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
     </a>
   </p>
-  <p>• ⏳ Working on my common core, currently on **so_long**</p>
-  <p>• 🔠 Learning **C**</p>
-  <p>• 🌱 Check out my first personal program:</p>
+  
+  • ⏳ Working on my common core, currently on **so_long**
+  
+  • 🔠 Learning **C**
+  
+  • 🌱 Check out my first personal program:
+  
   <div align="center">
     <a href="https://github.com/Nonino42/scholarship_logtime">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nonino42&repo=scholarship_logtime&theme=tokyonight">
