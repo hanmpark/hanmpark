@@ -6,12 +6,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://profile.intra.42.fr/users/hanmpark">
-     <img src="https://badge42.vercel.app/api/v2/clcvxdux200060fl3ltvbuwm2/stats?cursusId=21&coalitionId=122" alt="hanmpark's 42 stats" />
-  </a>
-</div>
-
 ## Hi there !
 
 * 👨🏻‍💻 42 Nice student
