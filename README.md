@@ -10,7 +10,7 @@
     </a>
   </p>
   
-  • ⏳ Working on my common core, currently on **so_long**
+  • ⏳ Working on my common core, currently on [**so_long**](https://github.com/Nonino42/so_long/)
   
   • 🔠 Learning **C**
   
