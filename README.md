@@ -1,12 +1,12 @@
 # Nonino (hanmpark)
 
-<div align="center">
+## Hi there !
+
+<div>
   <a href="https://profile.intra.42.fr/users/hanmpark">
     <img src="https://badgen.net/badge/Born2Code/hanmpark/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
 </div>
-
-## Hi there !
 
 * 👨🏻‍💻 42 Nice student
 * ⏳ Working on my common core, currently on **so_long**
