@@ -1,22 +1,22 @@
-# Nonino (hanmpark)
+# Hello fellow github user, I am Hanmin Park
 
-## Hi there !
+### Let me introduce myself
 
 <div>
-  <a href="https://profile.intra.42.fr/users/hanmpark">
-    <img src="https://badgen.net/badge/Born2Code/hanmpark/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
-  </a>
-</div>
-
-* 👨🏻‍💻 42 Nice student
-* ⏳ Working on my common core, currently on **so_long**
-* 🔠 Learning **C**
-* 🌱 Check out my program:
-
-<div align="center">
-  <a href="https://github.com/Nonino42/scholarship_logtime">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nonino42&repo=scholarship_logtime&theme=tokyonight">
-  </a>
+  <p>
+    • 👨🏻‍💻 I am a 42 Nice student
+    <a href="https://profile.intra.42.fr/users/hanmpark">
+      <img src="https://badgen.net/badge/Born2Code/hanmpark/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+    </a>
+  </p>
+  <p>• ⏳ Working on my common core, currently on **so_long**</p>
+  <p>• 🔠 Learning **C**</p>
+  <p>• 🌱 Check out my first personal program:</p>
+  <div align="center">
+    <a href="https://github.com/Nonino42/scholarship_logtime">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nonino42&repo=scholarship_logtime&theme=tokyonight">
+    </a>
+  </div>
 </div>
 
 ## Stats
