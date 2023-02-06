@@ -14,7 +14,7 @@
   
   • 🔠 Learning **C**
   
-  • 🌱 Check out my first personal program:
+  • 🌱 Check out my first personal project:
   
   <div align="center">
     <a href="https://github.com/Nonino42/scholarship_logtime">
