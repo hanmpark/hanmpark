@@ -14,7 +14,7 @@
 I am **Hanmin Park**  
 
 - 👨🏻‍💻 I am a 42 Nice student
-- ⏳ Working on 42's common core, currently on [**push_swap**](https://github.com/Nonino42/push_swap/)
+- ⏳ Working on 42's common core, currently on [**pipex**](https://github.com/Nonino42/pipex)
 - 🔠 Learning **C**
 - 🌱 Check out my first personal project:
 <div align="center">
