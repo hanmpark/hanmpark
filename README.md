@@ -13,10 +13,10 @@
 
 I am **Hanmin Park**  
 
-- 👨🏻‍💻 I am a 42 Nice student
+- 👨🏻‍💻 42 Nice student since 2022/11/07
 - ⏳ Working on 42's common core, currently on [**philosophers**](https://github.com/Nonino42/philosophers)
 - 🔠 Learning **C**
-- 🌱 Check out my first personal project:
+- 🌱 Check out my personal project:
 <div align="center">
   <a href="https://github.com/Nonino42/scholarship_logtime">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nonino42&repo=scholarship_logtime&theme=tokyonight">
