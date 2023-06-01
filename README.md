@@ -14,7 +14,7 @@
 I am **Hanmin Park**  
 
 - 👨🏻‍💻 42 Nice student since **2022/11/07**
-- ⏳ Working on 42's common core, currently on [**philosophers**](https://github.com/hanmpark/philosophers)
+- ⏳ Working on 42's common core, currently on [**minishell**](https://github.com/hanmpark/minishell)
 - 🔠 Learning **C**
 - 🌱 Check out my personal project:
 <div align="center">
