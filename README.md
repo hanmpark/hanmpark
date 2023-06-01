@@ -13,7 +13,7 @@
 
 I am **Hanmin Park**  
 
-- 👨🏻‍💻 42 Nice student since 2022/11/07
+- 👨🏻‍💻 42 Nice student since **2022/11/07**
 - ⏳ Working on 42's common core, currently on [**philosophers**](https://github.com/Nonino42/philosophers)
 - 🔠 Learning **C**
 - 🌱 Check out my personal project:
