@@ -14,19 +14,19 @@
 I am **Hanmin Park**  
 
 - 👨🏻‍💻 42 Nice student since **2022/11/07**
-- ⏳ Working on 42's common core, currently on [**philosophers**](https://github.com/Nonino42/philosophers)
+- ⏳ Working on 42's common core, currently on [**philosophers**](https://github.com/hanmpark/philosophers)
 - 🔠 Learning **C**
 - 🌱 Check out my personal project:
 <div align="center">
-  <a href="https://github.com/Nonino42/scholarship_logtime">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nonino42&repo=scholarship_logtime&theme=tokyonight">
+  <a href="https://github.com/hanmpark/scholarship_logtime">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=tokyonight">
   </a>
 </div>
 
 ## Statistics
 
 <div align ="center">
-  <a href="https://github.com/Nonino42">
-    <img src="https://github-readme-stats.vercel.app/api?username=nonino42&count_private=true&show_icons=true&theme=tokyonight"/>
+  <a href="https://github.com/hanmpark">
+    <img src="https://github-readme-stats.vercel.app/api?username=hanmpark&count_private=true&show_icons=true&theme=tokyonight"/>
   </a>
 </div>
