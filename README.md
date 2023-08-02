@@ -21,6 +21,7 @@
 ### Personal project
 #### My first project
 ![personal project](https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=tokyonight)
+> [!NOTE]  
 > This is an exlusively designed program for 42 Nice GEN scholarship students:
 This tool is crafted to effortlessly calculate the cumulative logtime for individuals, spanning from the 27th to the 26th of the current month or any specified month.
 
