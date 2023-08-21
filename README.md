@@ -17,6 +17,7 @@
 #define LEARNING  "C language 💾"
 #define ACTIVITY  "Taekwondo 4th dan 🥋"
 ```
+![views counter]("https://profile-counter.glitch.me/0vm/count.svg")
 
 ### Personal project
 #### My first project
