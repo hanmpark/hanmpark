@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/hanmin-park-83239718b/">
       <img src="https://badgen.net/badge/LinkedIn/Hanmin Park/cyan?icon=chrome">
     </a>
+    <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
+      <img src="https://komarev.com/ghpvc/?username=hanmpark&color=blueviolet">
+    </a>
   </p>
 </div>
 
@@ -17,7 +20,6 @@
 #define LEARNING  "C language 💾"
 #define ACTIVITY  "Taekwondo 4th dan 🥋"
 ```
-![views counter]("https://profile-counter.glitch.me/0vm/count.svg")
 
 ### Personal project
 #### My first project
