@@ -29,6 +29,4 @@
 This tool is crafted to effortlessly calculate the cumulative logtime for individuals, spanning from the 27th to the 26th of the current month or any specified month.
 
 #### Working on
-[![minishell](https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=minishell&theme=tokyonight)](https://github.com/hanmpark/minishell)
-> [!NOTE]  
-> A command-line interpreter that can execute basic shell commands and provide a shell-like environment.
+[![cpp 00](https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=cpp_modules&theme=tokyonight)](https://github.com/hanmpark/cpp_modules)
