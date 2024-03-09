@@ -13,20 +13,28 @@
   </p>
 </div>
 
-### Presentation
-```h
+### Welcome to My Github Profile 👋
+I'm Hanmin Park, a passionate learner and an aspiring software engineer currently honing my skills as a student at 42 Nice. Here's a quick overview of what I'm all about:
+```c
 #define STATUS    "42 student 🧑‍💻"
-#define WORK      "42's common core 📚"
-#define LEARNING  "C language 💾"
+#define WORK      "Immersed in 42's Common Core 📚"
+#define LEARNING  "Mastering the C++ 💾"
 #define ACTIVITY  "Taekwondo 4th dan 🥋"
 ```
+As a student at 42, I'm deeply involved in a unique and challenging educational experience that emphasizes peer-to-peer learning, creativity, and hands-on projects. My journey is not just about coding; it's about solving problems, collaborating with peers, and constantly pushing the boundaries of my knowledge and skills.
 
-### Personal project
-#### My first project
-[![personal project](https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=tokyonight)](https://github.com/hanmpark/scholarship_logtime)
+### Personal projects
+I love to channel my learnings into practical applications. Here's a highlight of my projects:  
+
+[![scholarship_logtime](https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=tokyonight)](https://github.com/hanmpark/scholarship_logtime)
 > [!NOTE]  
 > This is an exlusively designed program for 42 Nice GEN scholarship students:
-This tool is crafted to effortlessly calculate the cumulative logtime for individuals, spanning from the 27th to the 26th of the current month or any specified month.
+This program calculates cumulative logtime from the 27th of the previous month to the 26th of the current month or any specified month. It simplifies tracking and managing scholarship requirements, reflecting my commitment to creating solutions that address real-world needs.
 
-#### Working on
-[![cpp 00](https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=cpp_modules&theme=tokyonight)](https://github.com/hanmpark/cpp_modules)
+[![miniraytracer](https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=miniraytracer&theme=tokyonight)](https://github.com/hanmpark/miniraytracer)
+> [!NOTE]
+> The Mini Ray Tracer project is a compact yet powerful demonstration of ray tracing technology, designed as a hands-on exploration into the fundamentals of graphics programming. This project renders 3D scenes by simulating the way light rays intersect with objects and calculate colors based on materials and light sources. Ideal for those interested in computer graphics, this project showcases my ability to implement complex algorithms and understand the physics of light. Dive into the world of digital illumination and discover how simple principles can lead to stunning visuals.  
+
+![minirt render](https://github.com/hanmpark/hanmpark/blob/main/two_balls.jpeg)
+
+> Happy coding !
