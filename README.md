@@ -21,7 +21,7 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 #define LEARNING  "Mastering the C++ 💾"
 #define ACTIVITY  "Taekwondo 4th dan 🥋"
 ```
-As a student at 42, I'm deeply involved in a unique and challenging educational experience that emphasizes peer-to-peer learning, creativity, and hands-on projects. My journey is not just about coding; it's about solving problems, collaborating with peers, and constantly pushing the boundaries of my knowledge and skills.
+As a student at 42, I'm deeply involved in a unique and challenging educational experience that emphasizes peer-to-peer learning, creativity, and hands-on projects.
 
 ### Personal projects
 I love to channel my learnings into practical applications. Here's a highlight of my projects:  
