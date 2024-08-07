@@ -18,8 +18,6 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 ```c
 #define STATUS    "42 student 🧑‍💻"
 #define WORK      "Immersed in 42's Common Core 📚"
-#define LANGUAGE  "C/C++/JavaScript 💾"
-#define ACTIVITY  "Taekwondo 4th dan 🥋"
 ```
 As a student at 42, I'm deeply involved in a unique and challenging educational experience that emphasizes peer-to-peer learning, creativity, and hands-on projects.
 
