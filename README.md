@@ -18,7 +18,7 @@
 ## Welcome to My Github Profile 👋
 
 I'm Hanmin Park, a passionate learner and an aspiring software engineer currently honing my skills as a student at 42 Nice. Here's a quick overview of what I'm all about:
-
+<br/>
 <br/>
 
 <img align="right" src="https://github.com/hanmpark/hanmpark/blob/main/assets/coding.gif" alt="computer with lines of code" width="300px">
