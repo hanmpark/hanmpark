@@ -1,4 +1,4 @@
-![banner](https://github.com/hanmpark/hanmpark/blob/main/assets/github_banner.svg)
+![banner](https://github.com/hanmpark/hanmpark/blob/main/assets/github_banner.webp)
 <div align="center">
   <p>
     <a href="https://profile.intra.42.fr/users/hanmpark">
