@@ -30,6 +30,7 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hanmpark?tab=repositories)
 - 🥋 &nbsp; Taekwondo black belt 4th dan
 - 🎵 &nbsp; I play piano
+- 🩷 &nbsp; I like the game character Hollow Knight
 
 <br/>
 <br/>
