@@ -23,7 +23,7 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 
 <img align="right" src="https://github.com/hanmpark/hanmpark/blob/main/assets/coding.gif" alt="computer with lines of code" width="300px">
 
-### More about me:
+### 🔍 More about me:
 - ✨ &nbsp; Currently learning **machine learning**
 - 🌱 &nbsp; Currently learning **python**
 - ⌨️ &nbsp; Top 0.7% world on CodingGame (mostly Clash of Code)
@@ -36,14 +36,21 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 
 As a student at 42, I'm deeply involved in a unique and challenging educational experience that emphasizes peer-to-peer learning, creativity, and hands-on projects.
 
----
+### ⚒️ Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,html,css,figma,vscode,github,git,docker,vim)](https://skillicons.dev)
 
-## Personal projects
+### 📊 Github stats:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=hanmpark&show_icons=true&theme=transparent&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanmpark&theme=transparent&layout=compact&height=300)
+
+### Pinned Projects
+
 I love to channel my learnings into practical applications. Here's a highlight of my projects:
 
 <div align="center">
 	<a href="https://github.com/hanmpark/scholarship_logtime">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=tokyonight">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=transparent">
 	</a>
 </div>
 
@@ -55,7 +62,7 @@ This program calculates cumulative logtime from the 27th of the previous month t
 
 <div align="center">
 	<a href="https://github.com/hanmpark/miniraytracer">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=miniraytracer&theme=tokyonight">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=miniraytracer&theme=transparent">
 	</a>
 </div>
 
