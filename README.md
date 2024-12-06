@@ -21,7 +21,7 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 <br/>
 <br/>
 
-<img align="right" src="https://github.com/hanmpark/hanmpark/blob/main/assets/coding.gif" alt="computer with lines of code" width="300px">
+<img align="right" src="https://github.com/hanmpark/hanmpark/blob/main/assets/coding.gif" alt="computer with lines of code" width="300px" styling="margin-right: 20px">
 
 ### More about me:
 - ✨ &nbsp; Currently learning **machine learning**
