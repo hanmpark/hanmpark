@@ -49,7 +49,7 @@ This program calculates cumulative logtime from the 27th of the previous month t
 > [!NOTE]
 > The Mini Ray Tracer project is a compact yet powerful demonstration of ray tracing technology, designed as a hands-on exploration into the fundamentals of graphics programming. This project renders 3D scenes by simulating the way light rays intersect with objects and calculate colors based on materials and light sources. Ideal for those interested in computer graphics, this project showcases my ability to implement complex algorithms and understand the physics of light. Dive into the world of digital illumination and discover how simple principles can lead to stunning visuals.
 
-![minirt render](https://github.com/hanmpark/hanmpark/blob/main/two_balls.png)
+![minirt render](https://github.com/hanmpark/hanmpark/blob/main/assets/two_balls.png)
 
 <br>
 
