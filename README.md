@@ -40,7 +40,7 @@ As a student at 42, I'm deeply involved in a unique and challenging educational 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,html,css,figma,vscode,github,git,docker,vim)](https://skillicons.dev)
 
 ### 📊 Github stats:
-<div style="display: flex;justify-content: center">
+<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=hanmpark&show_icons=true&theme=transparent&rank_icon=github">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanmpark&theme=transparent&layout=compact">
 </div>
