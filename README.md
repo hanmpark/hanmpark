@@ -51,6 +51,8 @@ As a student at 42, I'm deeply involved in a unique and challenging educational 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanmpark&theme=transparent&layout=compact">
 </div>
 
+<br/>
+
 ---
 
 ### Pinned Projects
