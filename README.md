@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/hanmpark/hanmpark/blob/main/github_banner.png" alt="github banner">
+<img align="center" src="https://github.com/hanmpark/hanmpark/blob/main/assets/github_banner.png" alt="github banner">
 <div align="center">
   <p>
     <a href="https://profile.intra.42.fr/users/hanmpark">
