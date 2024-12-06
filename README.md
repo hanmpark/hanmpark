@@ -32,6 +32,7 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 - 🎵 &nbsp; I play piano
 
 <br/>
+<br/>
 
 As a student at 42, I'm deeply involved in a unique and challenging educational experience that emphasizes peer-to-peer learning, creativity, and hands-on projects.
 
