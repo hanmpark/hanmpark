@@ -17,16 +17,20 @@
 
 ## Welcome to My Github Profile 👋
 
-<br/>
+I'm Hanmin Park, a passionate learner and an aspiring software engineer currently honing my skills as a student at 42 Nice. Here's a quick overview of what I'm all about:
+
 <br/>
 
 <img align="right" src="https://github.com/hanmpark/hanmpark/blob/main/assets/coding.gif" alt="computer with lines of code" width="300px">
 
-I'm Hanmin Park, a passionate learner and an aspiring software engineer currently honing my skills as a student at 42 Nice. Here's a quick overview of what I'm all about:
-```c
-#define STATUS    "42 student 🧑‍💻"
-#define WORK      "Immersed in 42's Common Core 📚"
-```
+### More about me:
+- ✨ &nbsp; Currently learning **machine learning**
+- 🌱 &nbsp; Currently learning **python**
+- ⌨️ &nbsp; Top 0.7% world on CodingGame (mostly Clash of Code)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hanmpark?tab=repositories)
+- 🥋 &nbsp; Taekwondo black belt 4th dan
+- 🎵 &nbsp; I play piano
+
 As a student at 42, I'm deeply involved in a unique and challenging educational experience that emphasizes peer-to-peer learning, creativity, and hands-on projects.
 
 ---
