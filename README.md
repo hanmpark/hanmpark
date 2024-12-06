@@ -18,7 +18,7 @@
 ## Welcome to My Github Profile 👋
 
 <div align="right">
-	<img src="https://github.com/hanmpark/hanmpark/blob/main/assets/bongo-knight.gif" alt="hollow knight imitating bongo cat">
+	<img src="https://github.com/hanmpark/hanmpark/blob/main/assets/bongo-knight.gif" alt="hollow knight imitating bongo cat" height="200px">
 </div>
 
 I'm Hanmin Park, a passionate learner and an aspiring software engineer currently honing my skills as a student at 42 Nice. Here's a quick overview of what I'm all about:
