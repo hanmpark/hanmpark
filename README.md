@@ -36,9 +36,13 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 
 As a student at 42, I'm deeply involved in a unique and challenging educational experience that emphasizes peer-to-peer learning, creativity, and hands-on projects.
 
+<br/>
+
 ### ⚒️ Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,html,css,figma,vscode,github,git,docker,vim)](https://skillicons.dev)
+
+<br/>
 
 ### 📊 Github stats:
 
@@ -52,6 +56,8 @@ As a student at 42, I'm deeply involved in a unique and challenging educational 
 ### Pinned Projects
 
 I love to channel my learnings into practical applications. Here's a highlight of my projects:
+
+<br/>
 
 <div align="center">
 	<a href="https://github.com/hanmpark/scholarship_logtime">
