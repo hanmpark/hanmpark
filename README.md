@@ -47,8 +47,8 @@ As a student at 42, I'm deeply involved in a unique and challenging educational 
 ### 📊 Github stats:
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=hanmpark&show_icons=true&theme=transparent&rank_icon=github">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanmpark&theme=transparent&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=hanmpark&show_icons=true&theme=tokyonight&rank_icon=github">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanmpark&theme=tokyonight&layout=compact">
 </div>
 
 <br/>
@@ -63,15 +63,15 @@ I love to channel my learnings into practical applications. Here's a highlight o
 
 <div align="center">
 	<a href="https://github.com/hanmpark/scholarship_logtime">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=transparent">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=tokyonight">
 	</a>
 	<a href="https://github.com/hanmpark/miniraytracer">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=miniraytracer&theme=transparent">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=miniraytracer&theme=tokyonight">
 	</a>
 </div>
 <div align="center">
 	<a href="https://github.com/hanmpark/ft_transcendence">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=ft_transcendence&theme=transparent">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=ft_transcendence&theme=tokyonight">
 	</a>
 </div>
 
