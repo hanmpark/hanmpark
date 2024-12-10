@@ -53,28 +53,4 @@ As a student at 42, I'm deeply involved in a unique and challenging educational 
 
 <br/>
 
----
-
-### Pinned Projects
-
-I love to channel my learnings into practical applications. Here's a highlight of my projects:
-
-<br/>
-
-<div align="center">
-	<a href="https://github.com/hanmpark/scholarship_logtime">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=scholarship_logtime&theme=tokyonight">
-	</a>
-	<a href="https://github.com/hanmpark/miniraytracer">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=miniraytracer&theme=tokyonight">
-	</a>
-</div>
-<div align="center">
-	<a href="https://github.com/hanmpark/ft_transcendence">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanmpark&repo=ft_transcendence&theme=tokyonight">
-	</a>
-</div>
-
-<br/>
-
 > Happy coding !
