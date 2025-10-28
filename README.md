@@ -36,7 +36,7 @@ As a student at 42, I'm deeply involved in a unique and challenging educational 
 
 ### ⚒️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,html,css,figma,vscode,github,git,docker,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,html,css,figma,vscode,github,git,docker,vim)](https://skillicons.dev)
 
 <br/>
 
