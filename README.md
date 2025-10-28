@@ -24,8 +24,7 @@ I'm Hanmin Park, a passionate learner and an aspiring software engineer currentl
 <img align="right" src="https://github.com/hanmpark/hanmpark/blob/main/assets/coding.gif" alt="computer with lines of code" width="300px">
 
 ### 🔍 More about me:
-- ✨ &nbsp; Currently learning **machine learning**
-- 🌱 &nbsp; Currently learning **python**
+- 🌱 &nbsp; Currently learning **Angular**
 - ⌨️ &nbsp; Top 0.7% world on CodingGame (mostly Clash of Code)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hanmpark?tab=repositories)
 
