@@ -1,4 +1,5 @@
-![banner](https://github.com/hanmpark/hanmpark/blob/main/assets/github_banner.webp)
+
+---
 <div align="center">
   <p>
     <a href="https://profile.intra.42.fr/users/hanmpark">
@@ -13,26 +14,15 @@
   </p>
 </div>
 
----
-
-## Welcome to My Github Profile 👋
-
-![Metrics](/left_metrics.svg)
-![Calendar](/right_metrics.svg)
+<p align="center">
+  <img src="./left_metrics.svg" alt="left metrics" width="45%">
+  <img src="./right_metrics.svg" alt="right metrics" width="45%">
+</p>
+<br/>
 
 ### ⚒️ Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,angular,html,css,vscode,github,git,docker,vim)](https://skillicons.dev)
 
-<br/>
-
-### 📊 Github stats:
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=hanmpark&show_icons=true&theme=tokyonight&rank_icon=github">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanmpark&theme=tokyonight&layout=compact">
-</div>
-
-<br/>
 
 > Happy coding !
