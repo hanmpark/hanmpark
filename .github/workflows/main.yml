@@ -14,17 +14,26 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: General GitHub Metrics
+      - name: Left General Github Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
+          filename: left_metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
-      - name: Calendar Github Metrics
+          base: header, activity, repositories
+          config_timezone: Europe/Paris
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+      - name: Right General Github Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: right_metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_timezone: Europe/Paris
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all

@@ -17,7 +17,8 @@
 
 ## Welcome to My Github Profile 👋
 
-![Metrics](/metrics.classic.svg)
+![Metrics](/left_metrics.svg)
+![Calendar](/right_metrics.svg)
 
 ### ⚒️ Languages and Tools:
 
