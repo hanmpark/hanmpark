@@ -12,10 +12,8 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="./left_metrics.svg" alt="left metrics" width="45%">
-  <img src="./right_metrics.svg" alt="right metrics" width="45%">
-</p>
+![Metrics](/metrics.svg)
+
 <br/>
 
 ### ⚒️ Languages and Tools:

@@ -14,24 +14,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Left General Github Metrics
+      - name: General Github Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: left_metrics.svg
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, repositories
           config_display: large
           config_timezone: Europe/Paris
           plugin_introduction: yes
           plugin_introduction_title: yes
-      - name: Right General Github Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: right_metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          config_display: large
-          config_timezone: Europe/Paris
           plugin_isocalendar: yes
           plugin_calendar: yes
           plugin_calendar_limit: 1
