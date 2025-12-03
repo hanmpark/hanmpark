@@ -1,5 +1,3 @@
-
----
 <div align="center">
   <p>
     <a href="https://profile.intra.42.fr/users/hanmpark">
@@ -15,14 +13,14 @@
 </div>
 
 <p align="center">
-  <img src="./left_metrics.svg" alt="left metrics" width="45%">
-  <img src="./right_metrics.svg" alt="right metrics" width="45%">
+  <img src="./left_metrics.svg" alt="left metrics" width="49%">
+  <img src="./right_metrics.svg" alt="right metrics" width="49%">
 </p>
 <br/>
 
 ### ⚒️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,angular,html,css,vscode,github,git,docker,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,angular,html,css,vscode,github,git,docker,vim,bash)](https://skillicons.dev)
 
 
 > Happy coding !
