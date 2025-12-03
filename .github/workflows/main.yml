@@ -9,11 +9,21 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: General GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+      - name: Calendar Github Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
