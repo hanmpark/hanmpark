@@ -13,8 +13,8 @@
 </div>
 
 <p align="center">
-  <img src="./left_metrics.svg" alt="left metrics" width="49%">
-  <img src="./right_metrics.svg" alt="right metrics" width="49%">
+  <img src="./left_metrics.svg" alt="left metrics" width="45%">
+  <img src="./right_metrics.svg" alt="right metrics" width="45%">
 </p>
 <br/>
 
