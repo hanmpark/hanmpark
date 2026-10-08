@@ -4,7 +4,7 @@
 
 ## Hi, I'm Hanmin 👋
 
-**Software Engineer Apprentice @ Amadeus · Student @ 42 Nice**
+**Student @ 42 Nice**
 
 <br/>
 
