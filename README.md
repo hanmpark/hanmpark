@@ -4,7 +4,7 @@
 
 ## Hi, I'm Hanmin 👋
 
-**Student @ 42 Nice**
+**Freelance Software Developer · 42 Nice Graduate**
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ### 🧑‍💻 About
 
-> I'm a software developer based in the South of France, currently apprenticing at **Amadeus** while studying for an **RNCP 7 title in AI & Algorithms** at **42 Nice** — where I also serve as School Ambassador and 2022 Cohort Representative. I enjoy building things from low-level C to full-stack web apps.
+> I'm a freelance software developer based in the South of France, currently working with **The Good Cleaners**, a Canadian client. I graduated from **42 Nice** with an **RNCP Level 7 qualification in AI & Algorithms**. I enjoy building things from low-level C to full-stack web apps.
 
 ---
 
