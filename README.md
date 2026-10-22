@@ -20,7 +20,11 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hanmpark&bg_color=00000000&color=8B949E&line=4C8EDA&point=4C8EDA&area=true&area_color=4C8EDA&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanmpark&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanmpark&theme=github" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanmpark&theme=github" alt="Hanmin's GitHub contribution activity" />
+</picture>
 
 ---
 
@@ -44,9 +48,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=hanmpark&hide_border=true&background=00000000&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=hanmpark&hide_border=true&background=00000000&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666" />
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=hanmpark&hide_border=true&background=00000000&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hanmpark&disable_animations=true&hide_border=true&background=00000000&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hanmpark&disable_animations=true&hide_border=true&background=00000000&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666" />
+    <img src="https://streak-stats.demolab.com/?user=hanmpark&disable_animations=true&hide_border=true&background=00000000&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666" alt="GitHub Streak" />
   </picture>
 </div>
 
